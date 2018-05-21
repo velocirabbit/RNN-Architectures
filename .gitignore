@@ -21,3 +21,6 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+
+/nestedlstm/.ipynb-checkpoints/
+/nestedlstm/__pycache__/
